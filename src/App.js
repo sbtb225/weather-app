@@ -14,12 +14,12 @@ function App() {
           <SearchBar/>
 
           <span className="location-details">
-            <h2>Bewolkt</h2>
+            <h2>Cloudy</h2>
             <h3> </h3>
             <h1>14 &deg;</h1>
 
             <button type="button">
-              Haal data op!
+              Retrieve data!
             </button>
           </span>
         </div>
@@ -29,7 +29,7 @@ function App() {
           <TabBarMenu/>
 
           <div className="tab-wrapper">
-            Alle inhoud van de tabbladen komt hier!
+            All Table data comes here!
           </div>
         </div>
 
